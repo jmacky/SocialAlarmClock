@@ -98,7 +98,7 @@
                     <div class="col-6 col-sm-1"><button class="btn btn-primary" type="button" id="send">send</button></div>
                     <div class="col-6 col-sm-1"><label id="cmdResponse"></label></div>
                     <!-- force line break --><div class="w-100" style="margin-bottom: 20px;"></div>
-                    <div><a href="exe">Run configuration utility</a></div>
+                    <div><a href="SocialAlarmClockConfig.exe">Run configuration utility</a></div>
                 </div>
             </div>
         </div>
