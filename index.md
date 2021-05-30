@@ -12,7 +12,7 @@
         .form-check-input { background-color: #dadada }
         .form-check-input:checked { background-color: #55d400 }
         #advancedArea label { margin-top: 10px; }
-        #updateAlarmTime { margin-left: 60px; margin-top: -55px; visibility: hidden; }
+        #updateAlarmTime { margin-left: 60px; margin-top: -35px; visibility: hidden; }
         #offline { position: absolute; top: 25px; right: 50px; color: #d7190c; visibility: hidden; }
         .dot { height: 12px; width: 12px; background-color: #d7190c; border-radius: 50%; display: inline-block; }
     </style>
